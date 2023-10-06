@@ -33,12 +33,15 @@ def inmatning_av_ny_student():
     while True:
         förnamn = input("Vad är studentens förnamn? ")
         efternamn = input("Vad är studentens efternamn? ")
+        if förnamn.isalpha and efternamn.isalpha ():
+            return Student (förnamn,efternamn, personnummer)
+        else:
+            print("Namn får endast innehålla bokstäver, försök igen!")
         personnummer = input("Vad är studentens personnummer? ")
-        if personnummer.isdigit and förnamn.isalpha and efternamn.isalpha():
+        if personnummer.isdigit():
             return Student(förnamn, efternamn, personnummer)
         else:
-            print("Personnumret får bara innehålla siffror och namnet får bara innehålla bokstäver, försök igen!")
-
+            print("Personnumret får bara innehålla siffror, försök igen!")
 
 def huvudprogram():
     """Ger information till användaren vad som ska göras. 
