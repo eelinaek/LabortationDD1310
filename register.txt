@@ -1,0 +1,17 @@
+Alnelind;Lina;0706119057;alnelind@gmail.com;Kantarellvägen 18A
+Degerman;Maria;0706445295;maria_degerman@telia.com;Gammelbovägen 2
+Doberdolani;Bleona;0705407986;bleona11@hotmail.com;Helmutsrogatan 11
+Edelsvärd;Agnes;0731008928;agnes.edelsvärd@gmail.com;Studentvägen 34
+Ek;Elina;0703835049;elina.ek@hotmail.se;Bigarråvägen 3
+Ek;Stina;0702942123;stinaeek@gmail.com;Trumselvägen 17
+Ek;Jan;0703121390;jan_ek@hotmail.com;Trumselvägen 17
+Ek;Ulrika;0705199851;gympaulrika@hotmail.com;Trumselvägen 17
+Ek;Andreas;0702880023;ekandreas72@gmail.com;Gammelbovägen 2
+Frisk;Emma;0738098718;emmafrisk10@gmail.com;Backgatan 11
+Gatesi;Francois;0760418333;frasse98@live.se;Hermelinvägen 115
+Hellgren;Ida;0706080511;idahellgren16@gmail.com;Hellgrensgatan 5b
+Karaqica;Lirigzon;0702738006;lirgzoni47@hotmail.com;Bigarråvägen 3
+Lindqvist;Emma;0722494449;emmalindqvist@gmail.com;Bastugatan 6A
+Lundström;Elias;0767939828;lundstromelias19;Prästgatan 3
+Sandström;Elina;0702827888;sandstromelina02@gmail.com;Stackvägen 5A
+Sundqvist;Emilia;0725188201;emiliasundqvist2002@gmail.com;Styrmansgatan 16
